@@ -2,6 +2,10 @@
 
 Welcome to the Furniture Website project! This project showcases a modern, responsive furniture store website. It includes various features such as navigation, user authentication, and an interactive user interface, along with beautifully designed pages like the home page, categories, furniture offers, and store locations.
 
+## Demo
+
+You can view the live demo of the website here :  [Furniture Website Demo](https://kmouly.github.io/Landing_Page/)
+
 ## Features
 
 - **Responsive Design**: The website is designed to work seamlessly on mobile, tablet, and desktop devices.
